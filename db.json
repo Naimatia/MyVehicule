@@ -1,5 +1,4 @@
-{
- "events": [
+"events": [
         {
           "id": 200,
           "image": "../assets/car1.jpg",
@@ -37,4 +36,4 @@
           "prix": "300 000",
         }
       ]
-      }
+    
