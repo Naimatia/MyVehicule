@@ -1,40 +1,40 @@
 {
- event: [
+ "events": [
         {
-          id: 200,
-          image: "../assets/car1.jpg",
-          marque: "LAMBORGHINI",
-          prix: "300 000",
+          "id": 200,
+          "image": "../assets/car1.jpg",
+          "marque": "LAMBORGHINI",
+          "prix": "300 000",
+        },
+         {
+          "id": 200,
+          "image": "../assets/car2.jpg",
+          "marque": "LAMBORGHINI",
+          "prix": "300 000",
+        },
+     {
+          "id": 200,
+          "image": "../assets/car3.jpg",
+          "marque": "LAMBORGHINI",
+          "prix": "300 000",
+        },
+       {
+          "id": 200,
+          "image": "../assets/car4.jpg",
+          "marque": "LAMBORGHINI",
+          "prix": "300 000",
+        },
+         {
+          "id": 200,
+          "image": "../assets/car5.jpg",
+          "marque": "LAMBORGHINI",
+          "prix": "300 000",
         },
         {
-          id: 200,
-          image: "../assets/car2.jpg",
-          marque: "LAMBORGHINI",
-          prix: "300 000",
-        },
-        {
-          id: 200,
-          image: "../assets/car3.jpg",
-          marque: "LAMBORGHINI",
-          prix: "300 000",
-        },
-        {
-          id: 200,
-          image: "../assets/car4.jpg",
-          marque: "LAMBORGHINI",
-          prix: "300 000",
-        },
-        {
-          id: 200,
-          image: "../assets/car5.jpg",
-          marque: "LAMBORGHINI",
-          prix: "300 000",
-        },
-        {
-          id: 200,
-          image: "../assets/car6.jpg",
-          marque: "LAMBORGHINI",
-          prix: "300 000",
-        },
-      ],
+          "id": 200,
+          "image": "../assets/car6.jpg",
+          "marque": "LAMBORGHINI",
+          "prix": "300 000",
+        }
+      ]
       }
