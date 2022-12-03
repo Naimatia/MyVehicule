@@ -2,7 +2,7 @@
    "events":[
       {
          "id":200,
-         "image":"@/assets/car1.jpg",
+         "image":"@/src/assets/car1.jpg",
          "marque":"LAMBORGHINI",
          "prix":"300 000"
       },
