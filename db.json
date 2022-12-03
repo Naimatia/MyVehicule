@@ -8,13 +8,13 @@
       },
       {
          "id":201,
-         "image":"./assets/car2.jpg",
+         "image":"@/assets/car2.jpg",
          "marque":"ferrarie",
          "prix":"100 000"
       },
       {
          "id":202,
-         "image":"../assets/car3.jpg",
+         "image":"@/assets/car3.jpg",
          "marque":"LAMBORGHINI",
          "prix":"300 000"
       },
