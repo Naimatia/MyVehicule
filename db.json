@@ -2,7 +2,7 @@
    "events":[
       {
          "id":200,
-         "image":"@/assets/car1.jpg",
+         "image":" @/assets/car1.jpg ",
          "name":" LAMBORGINI",
          "marque":"AVENTADOR",
          "prix":"200 000"
