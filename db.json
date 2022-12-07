@@ -2,7 +2,7 @@
    "events":[
       {
          "id":200,
-         "image":"@/assets/car1.jpg",
+         "image":"https://github.com/Naimatia/MyVehicule/blob/main/Bugatti-Chiron.jpg",
          "name":" LAMBORGINI",
          "marque":"AVENTADOR S",
          "prix":"200 000"
